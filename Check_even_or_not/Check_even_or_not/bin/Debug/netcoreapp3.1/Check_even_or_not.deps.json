@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Check_even_or_not/1.0.0": {
+        "runtime": {
+          "Check_even_or_not.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check_even_or_not/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

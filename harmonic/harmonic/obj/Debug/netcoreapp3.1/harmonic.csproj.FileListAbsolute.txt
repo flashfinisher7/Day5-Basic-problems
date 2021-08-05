@@ -1,0 +1,13 @@
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\bin\Debug\netcoreapp3.1\harmonic.exe
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\bin\Debug\netcoreapp3.1\harmonic.deps.json
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\bin\Debug\netcoreapp3.1\harmonic.runtimeconfig.json
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\bin\Debug\netcoreapp3.1\harmonic.runtimeconfig.dev.json
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\bin\Debug\netcoreapp3.1\harmonic.dll
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\bin\Debug\netcoreapp3.1\harmonic.pdb
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\obj\Debug\netcoreapp3.1\harmonic.csproj.AssemblyReference.cache
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\obj\Debug\netcoreapp3.1\harmonic.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\obj\Debug\netcoreapp3.1\harmonic.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\obj\Debug\netcoreapp3.1\harmonic.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\obj\Debug\netcoreapp3.1\harmonic.dll
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\obj\Debug\netcoreapp3.1\harmonic.pdb
+C:\Users\mvsan\fellowship_program\harmonic\harmonic\obj\Debug\netcoreapp3.1\harmonic.genruntimeconfig.cache

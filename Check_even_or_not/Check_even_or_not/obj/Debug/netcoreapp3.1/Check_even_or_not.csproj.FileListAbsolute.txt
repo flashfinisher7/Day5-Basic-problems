@@ -1,0 +1,13 @@
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\obj\Debug\netcoreapp3.1\Check_even_or_not.csproj.AssemblyReference.cache
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\obj\Debug\netcoreapp3.1\Check_even_or_not.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\obj\Debug\netcoreapp3.1\Check_even_or_not.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\obj\Debug\netcoreapp3.1\Check_even_or_not.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\bin\Debug\netcoreapp3.1\Check_even_or_not.exe
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\bin\Debug\netcoreapp3.1\Check_even_or_not.deps.json
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\bin\Debug\netcoreapp3.1\Check_even_or_not.runtimeconfig.json
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\bin\Debug\netcoreapp3.1\Check_even_or_not.runtimeconfig.dev.json
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\bin\Debug\netcoreapp3.1\Check_even_or_not.dll
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\bin\Debug\netcoreapp3.1\Check_even_or_not.pdb
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\obj\Debug\netcoreapp3.1\Check_even_or_not.dll
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\obj\Debug\netcoreapp3.1\Check_even_or_not.pdb
+C:\Users\mvsan\fellowship_program\Check_even_or_not\Check_even_or_not\obj\Debug\netcoreapp3.1\Check_even_or_not.genruntimeconfig.cache

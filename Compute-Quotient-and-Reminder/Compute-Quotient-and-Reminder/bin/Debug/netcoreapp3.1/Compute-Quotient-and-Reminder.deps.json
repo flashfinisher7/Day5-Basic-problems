@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Compute-Quotient-and-Reminder/1.0.0": {
+        "runtime": {
+          "Compute-Quotient-and-Reminder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compute-Quotient-and-Reminder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

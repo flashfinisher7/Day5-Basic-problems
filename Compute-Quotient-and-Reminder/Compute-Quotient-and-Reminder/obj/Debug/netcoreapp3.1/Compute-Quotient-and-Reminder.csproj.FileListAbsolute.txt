@@ -1,0 +1,13 @@
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\bin\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.exe
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\bin\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.deps.json
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\bin\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.runtimeconfig.json
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\bin\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.runtimeconfig.dev.json
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\bin\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.dll
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\bin\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.pdb
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\obj\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.csproj.AssemblyReference.cache
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\obj\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\obj\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\obj\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\obj\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.dll
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\obj\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.pdb
+C:\Users\mvsan\fellowship_program\Compute-Quotient-and-Reminder\Compute-Quotient-and-Reminder\obj\Debug\netcoreapp3.1\Compute-Quotient-and-Reminder.genruntimeconfig.cache

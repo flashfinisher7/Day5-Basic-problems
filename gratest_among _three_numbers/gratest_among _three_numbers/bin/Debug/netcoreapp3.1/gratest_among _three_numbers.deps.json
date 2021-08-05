@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gratest_among _three_numbers/1.0.0": {
+        "runtime": {
+          "gratest_among _three_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gratest_among _three_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

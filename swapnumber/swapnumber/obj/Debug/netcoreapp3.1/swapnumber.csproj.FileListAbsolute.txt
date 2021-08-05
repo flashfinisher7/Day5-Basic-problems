@@ -1,0 +1,13 @@
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.exe
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.deps.json
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.runtimeconfig.json
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.runtimeconfig.dev.json
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.dll
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\bin\Debug\netcoreapp3.1\swapnumber.pdb
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.dll
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.pdb
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.genruntimeconfig.cache
+C:\Users\mvsan\fellowship_program\swapnumber\swapnumber\obj\Debug\netcoreapp3.1\swapnumber.csproj.AssemblyReference.cache
